@@ -1,2 +1,1 @@
-# projet3data
-Requêtez une base de données avec SQL
+# Requêtez une base de données avec SQL
